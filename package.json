@@ -1,0 +1,22 @@
+{
+  "name": "planet-color-theme",
+  "displayName": "Planet Color Theme",
+  "description": "Customised VSCode theme based on Default Dark+ theme, with modifications.",
+  "version": "0.0.1",
+  "publisher": "Kayzels",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Planet Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/planet-color-theme.json"
+      }
+    ]
+  }
+}
