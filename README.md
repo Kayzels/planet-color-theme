@@ -3,4 +3,4 @@
 Customised VSCode theme based on Default Dark+ theme, with modifications.
 
 ## Screenshot
-![Screenshot](screenshots/sample.png)
+![Screenshot](https://raw.githubusercontent.com/Kayzels/planet-color-theme/main/screenshots/sample.png)
