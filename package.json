@@ -2,8 +2,10 @@
   "name": "planet-color-theme",
   "displayName": "Planet Color Theme",
   "description": "Customised VSCode theme based on Default Dark+ theme, with modifications.",
-  "version": "0.0.1",
-  "publisher": "Kayzels",
+  "galleryBanner": {
+    "color": "#1E1E1E",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Kayzels/planet-color-theme/"
@@ -17,6 +19,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
