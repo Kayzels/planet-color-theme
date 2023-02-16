@@ -2,6 +2,9 @@
   "name": "planet-color-theme",
   "displayName": "Planet Color Theme",
   "description": "Customised VSCode theme based on Default Dark+ theme, with modifications.",
+  "version": "1.0.0",
+  "publisher": "kyzan-hartwig",
+  "license": "SEE LICENSE IN LICENSE.md",
   "galleryBanner": {
     "color": "#1E1E1E",
     "theme": "dark"
@@ -18,6 +21,11 @@
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "planet",
+    "theme",
+    "dark"
   ],
   "icon": "icon.png",
   "contributes": {
