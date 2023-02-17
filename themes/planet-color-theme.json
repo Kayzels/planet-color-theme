@@ -179,7 +179,6 @@
 				"string.value",
 				"meta.preprocessor.string",
 				"string.quoted",
-				"punctuation.definition.string"
 			],
 			"settings": {
 				"foreground": "#CE9178"
